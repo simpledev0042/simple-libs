@@ -1,6 +1,6 @@
 {
   "name": "simple-libs",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "This is library for useful common functions",
   "main": "index.js",
   "scripts": {
