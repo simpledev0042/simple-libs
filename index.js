@@ -1,2 +1,3 @@
 const String = require("./Library/String")
-module.exports = { String }
+const Email = require("simple-libs/Library/Email")
+module.exports = { String, Email }
